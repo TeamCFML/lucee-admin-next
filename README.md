@@ -1,5 +1,7 @@
-# Lucee Admin (Panther Edition)
-This is an alternate admin panel for lucee.
+# Lucee Panther Admin Panel
+
+A `Lucee Panther` admin panel plugin.
+
 
 ## Features
 - Built to be extended
