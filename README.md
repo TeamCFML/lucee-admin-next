@@ -1,6 +1,9 @@
-# lucee-panther
+# Lucee Admin (Panther Edition - v1 2018)
 This is an alternate admin panel for lucee.
 
 ## Features
-- Build to be extended
-- Build admin pages for your environment
+- Built to be extended
+- New Features
+- Plugin Manager
+
+### Plugin Manager
