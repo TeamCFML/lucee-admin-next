@@ -1,4 +1,4 @@
-# Lucee Admin (Panther Edition - v1 2018)
+# Lucee Admin (Panther Edition)
 This is an alternate admin panel for lucee.
 
 ## Features
